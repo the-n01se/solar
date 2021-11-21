@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/style.min.css">
+</head>
+
+<body>
+
+  <header class="header">
+    <div class="container">
+      <a href="#" class="header__logo-link">
+        <img src="./images/logo.svg" alt="header logo image" class="header__logo-image">
+      </a>
+      <div class="header__content">
+        <p class="header__subtitle-up">Зеленый тариф для дома и бизнеса</p>
+        <h1 class="header__title">Солнечная электростанция</h1>
+        <p class="header__subtitle-down">с доходом от 1000 $ в месяц</p>
+        <a href="" class="header__button button">
+          <img class="header__button-image" src="./images/button-image.svg"></img>
+          <span class="header__button-text">записаться на консультацию</span>
+        </a>
+      </div>
+      <div class="header__links">
+        <img src="./images/social-network-links/1.svg" alt="header social network image 1" class="header__link-image">
+        <img src="./images/social-network-links/2.svg" alt="header social network image 2" class="header__link-image">
+        <img src="./images/social-network-links/3.svg" alt="header social network image 3" class="header__link-image">
+        <img src="./images/social-network-links/4.svg" alt="header social network image 4" class="header__link-image">
+      </div>
+    </div>
+  </header>
+  <section class="services">
+    <div class="container">
+      <h4 class="services__title title">Услуги</h4>
+      <div class="services__content">
+        <div class="services__texts">
+          <h6 class="services__texts-title s-title">Полный комплект солнечной электростанции
+          </h6>
+          <p class="services__texts-text">74 модели солнечных панелей, 31 модель инверторов, провода с повышенной
+            устойчивостью к атмосферным условиям, качественные соединители, контроллеры зарядов и надежные гелевые
+            аккумуляторы с увеличенным сроком службы.</p>
+          <h6 class="services__texts-title s-title">Подбор оборудования
+            с максимальной производительностью
+          </h6>
+          <p class="services__texts-text">Подбираем солнечные панели с учетом расположения Вашего дома, количеством
+            прямого и рассеянного излучения, для того, чтобы Ваша электростанция - вырабатывала максимальное количество
+            электроэнергии и окупилась как можно быстрее.</p>
+          <h6 class="services__texts-title s-title">Монтаж оборудования в соответствии с ГОСТом
+          </h6>
+          <p class="services__texts-text">Монтаж производится в точном соответствии с ГОСТом, с учетом закона о «Зеленом
+            тарифе» и требованиями Облэнерго. При этом, мы учитываем, чтобы солнечная станция имела максимально
+            возможную производительность.</p>
+          <h6 class="services__texts-title s-title">Помощь в подключении к «Зеленому тарифу»
+          </h6>
+          <p class="services__texts-text">Всю бюрократическую процедуру по подключению Вашей электростанции к «Зеленому
+            тарифу», мы берем на себя, в том числе по увеличению договорной мощности вашего дома. При заказе солнечной
+            электростанции эта услуга абсолютно бесплатна.</p>
+        </div>
+        <img src="./images/services.jpg" alt="services image" class="services__image">
+      </div>
+    </div>
+  </section>
+
+  <section class="tarif">
+    <div class="container">
+      <h4 class="tarif__title title">Зелёный тариф</h4>
+      <div class="tarif__content">
+        <img src="./images/tarif.jpg" alt="tarif image" class="tarif__image">
+        <div class="tarif__right-side">
+          <h6 class="tarif__content-title s-title">«Зеленый тариф» — это особые тарифные условия, которые позволяют
+            частным
+            домохозяйствам не только потреблять, но и продавать выработанное домашними солнечными электростанциями
+            электричество в электросеть общего пользования.</h6>
+          <div class="tarif__texts">
+            <div class="tarif__item">
+              <h6 class="tarif__item-title s-title">Гарантия выкупа
+              </h6>
+              <p class="tarif__item-text">Гарантированный выкуп электроэнергии государством </p>
+            </div>
+            <div class="tarif__item">
+              <h6 class="tarif__item-title s-title">Долгосрочно
+              </h6>
+              <p class="tarif__item-text">это проект, поддерживаемый международными инвестиционными организациями</p>
+            </div>
+            <div class="tarif__item">
+              <h6 class="tarif__item-title s-title">Вид вложения
+              </h6>
+              <p class="tarif__item-text">Альтернатива банковским депозитам, окупаемость - от 16% до 18% годовых</p>
+            </div>
+            <div class="tarif__item">
+              <h6 class="tarif__item-title s-title">Высокая ставка</h6>
+              <p class="tarif__item-text">Самая высокая тарифная ставка в европе - 0,16 евро</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="quote">
+    <div class="container">
+      <p class="quote__text">«Солнечная электростанция
+        — идеальное вложение средств
+        в свою энергонезависимость и
+        пассивный доход»</p>
+    </div>
+  </section>
+
+  <section class="steps">
+    <div class="container">
+      <h4 class="steps__title title">5 шагов к собственной электростанции</h4>
+      <div class="steps__content">
+        <div class="steps__items">
+          <div class="steps__item">
+            <span class="steps__item-number">01</span>
+            <h6 class="steps__item-title s-title">Заявка или звонок</h6>
+            <p class="steps__item-text">Оставляете заявку на нашем сайте или связываетесь с нами по телефону или в
+              мессенджерах.</p>
+          </div>
+          <div class="steps__item">
+            <span class="steps__item-number">02</span>
+            <h6 class="steps__item-title s-title">Консультация и замер на объекте</h6>
+            <p class="steps__item-text">Мы просчитываем более 10- 15 вариантов солнечной станции на Вашем участке, чтобы
+              предложить Вам один наиболее выгодный.</p>
+          </div>
+          <div class="steps__item">
+            <span class="steps__item-number">03</span>
+            <h6 class="steps__item-title s-title">Заключение договора
+            </h6>
+            <p class="steps__item-text">Заключается договор, благодаря которому, вы будете застрахованы от
+              некачественного оборудования и срыва сроков.</p>
+          </div>
+          <div class="steps__item">
+            <span class="steps__item-number">04
+            </span>
+            <h6 class="steps__item-title s-title">Монтаж СЭС
+            </h6>
+            <p class="steps__item-text">Наши специалисты производят монтаж солнечных батарей, проводки и инверторов, при
+              необходимости изготавливают опоры.</p>
+          </div>
+          <div class="steps__item">
+            <span class="steps__item-number">05</span>
+            <h6 class="steps__item-title s-title">Получение дохода от государства
+            </h6>
+            <p class="steps__item-text">После подключения к «Зеленому тарифу», вы получаете доход за каждый киловатт,
+              выработанный на Вашей солнечной электростанции по зафиксированному тарифу на момент подключения.</p>
+          </div>
+        </div>
+        <img src="./images/steps.jpg" alt="steps image" class="steps__image">
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__content">
+        <div class="footer__left_side">
+          <h4 class="footer__left_side-title">Оставить заявку</h4>
+          <input type="text" placeholder="Имя">
+          <input type="text" placeholder="Телефон">
+          <a href="#" class="footer__button button">
+            <img src="./images/button-image.svg" alt="footer button image">
+            <span class="footer__button-span">оставить заявку</span>
+          </a>
+        </div>
+        <div class="footer__right_side">
+          <h4 class="footer__right_side-title">Контакты</h4>
+          <p class="footer__right_side-location">
+            Центральный офис:<br>
+            г. Москва, ул,Гоголя 13, 1й этаж
+          </p>
+          <p class="footer__right_side-phone">+7 987 654-54-56
+          </p>
+          <p class="footer__right_side-time">Ежедневно 08:00 - 20:00</p>
+        </div>
+      </div>
+      <div class="footer__down_side">
+        <a href="#" class="footer__logo-link">
+          <img src="./images/logo.svg" alt="footer logo image" class="footer__logo-image">
+        </a>
+        <div class="footer__links">
+          <img src="./images/social-network-links/1.svg" alt="footer social network image 1" class="header__link-image">
+          <img src="./images/social-network-links/2.svg" alt="footer social network image 2" class="header__link-image">
+          <img src="./images/social-network-links/3.svg" alt="footer social network image 3" class="header__link-image">
+          <img src="./images/social-network-links/4.svg" alt="footer social network image 4" class="header__link-image">
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.min.js"></script>
+</body>
+
+</html>
