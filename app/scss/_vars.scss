@@ -1,0 +1,34 @@
+$gray: #868585;
+$black: #303030;
+$accent: #a9a32a;
+
+@mixin title-h1 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  color: $gray;
+}
+@mixin title-h2 {
+  font-weight: 700;
+  font-size: 18px;
+  color: $black;
+}
+@mixin text-18 {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  color: $black;
+}
+@mixin text-14 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  color: $black;
+}
+
+@mixin button {
+  font-size: 18px;
+  line-height: 25px;
+  color: #ffffff;
+  padding-left: 35px;
+}
